@@ -21,8 +21,8 @@ SESSION_ID: '' //Put your session id here
 global.autoTyping = false //Auto typing...(true for on, false for off)
 global.autoRecord = false // Auto recording...(true for on, false for off)
 global.autoread = false // Auto Message read(true for on, false for off)
-global.alwaysonline = true // Always Online(true for on, false for off)
-global.statusread = true // Auto status read 🗿🖐🏻(true for on, false for off)
+global.alwaysonline = false // Always Online(true for on, false for off)
+global.statusread = false // Auto status read 🗿🖐🏻(true for on, false for off)
 global.private = true // worktype(true for private, false for public)
 global.autoreact = false // Auto react ( verum myra aah 🤣🙌🏻 )
 global.autodlyt = false // Auto YouTube video downloader(true for on, false for off)
@@ -32,10 +32,10 @@ global.version = "1.1.1"
 // Required variables
 //---------------------------------
 global.prefix = "." // use "" for removing prefix
-global.ownername = "ᴛᴇᴀᴍ ᴇx-ʙᴏᴛ-ᴢ" // Bot Owner name
+global.ownername = "FTM" // Bot Owner name
 global.botname = "x-ʙᴏᴛ-ᴍᴅ" //bot name
 global.thumb = "https://i.imgur.com/IIHEyLI.jpg" // bot image overall
-global.ownernumber = ["917012984396","917594898804","919961857267"] //SODO / OWNER NUMBER
+global.ownernumber = ["2349169252259"] //SODO / OWNER NUMBER
 global.caption = "_*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ x-ʙᴏᴛ-ᴍᴅ*_" // Caption 
 //---------------------------------
 // Owner Mention Audio
@@ -54,6 +54,6 @@ global.url = 'https://chat.whatsapp.com/JjzEUDkJgke1vPGK3GAvG6' // mention url
 // No need of editing ( Edit aaki oombanda 🗿🖐🏻) kuduthal edit aakiyal kolamm aayum myra 🖐🏻🤣
 //---------------------------------
 global.IMGBB_KEY = ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"]
-global.reactemoji = ['😨','😅','😂','😳','😎', '🥵', '😱', '🐦', '🙄', '🐤','🗿','🐦','🤨','🥴','😐','👆','😔', '👀','👎','🔥','💦','✂️','🍭'] // auto react emoji
+global.reactemoji = [] // auto react emoji
 global.sparky = ['☆','✼','　 ҉ ','❏','🍭','△'] // menu design's 
 global.worktype = 'X BOT MD MODE' // Dont edit it 💉✨
